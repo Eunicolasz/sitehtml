@@ -1,0 +1,194 @@
+h1 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+div#retangulo{
+    width: 1855px;
+    height: 50px;
+    background-color: #2A2A2A;
+    margin-top: 150x;
+    margin-left: -10px;
+}
+div#epic{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+div#Store{
+    margin-top: -48px;
+    color: #cccccc;
+    margin-left: 70px;
+}
+div#Distribuição{
+    margin-top: -773px;
+    color: #cccccc;
+    margin-left: 145px;
+}
+div#Ajuda{
+    margin-top: -34px;
+    color: #cccccc;
+    margin-left: 280px;
+}
+div#linha{
+    margin-top: -35px;
+    color: #cccccc;
+    margin-left: 360px;
+    font-size: large;
+}
+div#unreal{
+    margin-top: -35px;
+    color: #cccccc;
+    margin-left: 395px;
+}
+div#globo{
+    margin-top: -35px;
+    color: #cccccc;
+    margin-left: 1550px;
+    height: 50px;
+    width: 50px;
+}
+div#person{
+    margin-top: -48px;
+    color: #cccccc;
+    margin-left: 1600px;
+}
+div#entrar{
+    margin-top: -45px;
+    color: #cccccc;
+    margin-left: 1650px;
+}
+div#baixar{
+    margin-top: -50px;
+    background-color: #0078f2;
+    color: #0078f2;
+    margin-left: 1730px;
+    width: 165px;
+    height: 50px;
+}
+div#baixar1{
+    margin-top: -49px;
+    color: white;
+    margin-left: 1760px;
+}
+div#imagem{
+    border-radius: 40%;
+    margin-top: 120px;
+    margin-left: 250px;
+    
+}
+div#pesquisar{
+    margin-top: 50px;
+    color: #202020;
+    margin-left: 240px;
+    background-color: #202020;
+    height: 40px;
+    width: 225px;
+    border-radius: 20px;
+}
+div#lupa{
+    margin-top: -29px;
+    margin-left: 250px;
+    color: #cccccc;
+}
+div#pesquisa{
+    margin-top: -38px;
+    margin-left: 290px;
+    color: gray;
+}
+div#descobrir{
+    margin-top: -35px;
+    color: white;
+    margin-left: 500px;
+}
+div#navegar{
+    margin-top: -34px;
+    color: gray;
+    margin-left:620px;
+}
+div#novidades{
+    margin-top: -34px;
+    color: gray;
+    margin-left: 730px;
+}
+div#marca{
+    margin-top: 200px;
+    margin-left: 340px;
+    color: #000;
+}
+div#imagem1{
+    margin-top: -295px;
+    margin-left: 1400px;
+}
+div#imagem2{
+    margin-top: 20px;
+    margin-left: 1400px;
+}
+div#imagem3{
+    margin-top: 22px;
+    margin-left: 1400px;
+
+}
+div#imagem4{
+    margin-top: 22px;
+    margin-left: 1400px;
+}
+div#imagem5{
+    margin-top: 22px;
+    margin-left: 1400px;
+
+}
+div#ea{
+    margin-top: -580px;
+    margin-left: 1500px;
+    color: white;
+}
+div#cyber{
+    margin-top: 100px;
+    margin-left: 1500px;
+    color: white;
+}
+div#witch{
+    margin-top: 100px;
+    margin-left: 1500px;
+    color: white;
+}
+div#mortal{
+    margin-top: 110px;
+    margin-left: 1500px;
+    color: white;
+}
+div#assasin{
+    margin-top: 110px;
+    margin-left: 1500px;
+    color: white;
+}
+div#promo{
+    margin-top: 70px;
+    color: white;
+    margin-left: 270px;
+}
+div#grande{
+    display: flex;
+    margin-left: 250px;
+    padding-right: 50px;
+    margin-right: 10%;
+    justify-content: space-around;
+    color: #cccccc;
+    bottom: #0078f2;
+}
+
+#preco{
+    background-color: #0078f2;
+}
+figcaption{
+    font-family: 'Inter', sans-serif;
+}
+figcaption,a{
+    font-family: 'Inter', sans-serif;
+}
+#desc{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    color: white;
+    margin-left: 750px;
+}
